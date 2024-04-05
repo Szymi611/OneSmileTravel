@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TravelMobileApp</string>
+    <string name="update_travel">Update Travel</string>
+    <string name="add_travel">Add Travel</string>
+</resources>
