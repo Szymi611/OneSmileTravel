@@ -5,7 +5,8 @@ import com.google.gson.annotations.SerializedName
 data class Country(
     val name: Name,
     val cca2: String,
-    val flags: Flags
+    val flags: Flags,
+    val visited: Boolean = false
 )
 
 

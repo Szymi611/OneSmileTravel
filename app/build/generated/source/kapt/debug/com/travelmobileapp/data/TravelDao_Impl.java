@@ -99,8 +99,7 @@ public final class TravelDao_Impl extends TravelDao {
   }
 
   @Override
-  public Object addATravel(final Travel travelEntity,
-      final Continuation<? super Unit> $completion) {
+  public Object addATravel(final Travel travelEntity, final Continuation<? super Unit> arg1) {
     return CoroutinesRoom.execute(__db, true, new Callable<Unit>() {
       @Override
       @NonNull
@@ -114,12 +113,11 @@ public final class TravelDao_Impl extends TravelDao {
           __db.endTransaction();
         }
       }
-    }, $completion);
+    }, arg1);
   }
 
   @Override
-  public Object deleteATravel(final Travel travelEntity,
-      final Continuation<? super Unit> $completion) {
+  public Object deleteATravel(final Travel travelEntity, final Continuation<? super Unit> arg1) {
     return CoroutinesRoom.execute(__db, true, new Callable<Unit>() {
       @Override
       @NonNull
@@ -133,12 +131,11 @@ public final class TravelDao_Impl extends TravelDao {
           __db.endTransaction();
         }
       }
-    }, $completion);
+    }, arg1);
   }
 
   @Override
-  public Object updateATravel(final Travel travelEntity,
-      final Continuation<? super Unit> $completion) {
+  public Object updateATravel(final Travel travelEntity, final Continuation<? super Unit> arg1) {
     return CoroutinesRoom.execute(__db, true, new Callable<Unit>() {
       @Override
       @NonNull
@@ -152,7 +149,7 @@ public final class TravelDao_Impl extends TravelDao {
           __db.endTransaction();
         }
       }
-    }, $completion);
+    }, arg1);
   }
 
   @Override

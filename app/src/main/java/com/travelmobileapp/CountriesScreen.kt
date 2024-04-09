@@ -38,13 +38,13 @@ fun CountriesScreen(viewModel: TravelViewModel) {
                 modifier = Modifier.align(Alignment.Center)
             )
 
-            else -> CountryScreen(countries = viewState.list)
+            else -> CountryScreen(countries = viewState.list, viewModel = viewModel)
         }
     }
 }
 
 @Composable
-fun CountryScreen(countries: List<Country>) {
+fun CountryScreen(countries: List<Country>, viewModel: TravelViewModel) {
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -62,19 +62,20 @@ fun CountryScreen(countries: List<Country>) {
 
         LazyVerticalGrid(columns = GridCells.Fixed(2), modifier = Modifier.fillMaxSize()) {
             items(countries) { country ->
-                CountryView(country = country)
+                CountryView(country = country, viewModel = viewModel)
             }
         }
     }
 }
 
 @Composable
-fun CountryView(country: Country) {
+fun CountryView(country: Country, viewModel: TravelViewModel) {
     Column(
         modifier = Modifier
             .padding(8.dp)
             .fillMaxSize()
-            .clickable { /* TODO: Add click action here */ },
+            .clickable { viewModel.updateCountryVisitedStatus(country.cca2, !country.visited) }
+            .background(if (country.visited) Color.Green else Color.Transparent),
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Image(
