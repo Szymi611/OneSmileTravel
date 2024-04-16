@@ -19,14 +19,22 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.currentBackStackEntryAsState
+import com.travelmobileapp.screen.ChatRoomListScreen
+import com.travelmobileapp.screen.ChatScreen
+import com.travelmobileapp.screen.CountriesScreen
+import com.travelmobileapp.screen.LoginScreen
+import com.travelmobileapp.screen.Screen
+import com.travelmobileapp.screen.SignUpScreen
+import com.travelmobileapp.viewmodel.AuthViewModel
 
 @Composable
-fun MainScreen(viewModel: TravelViewModel = viewModel()) {
+fun MainScreen(viewModel: TravelViewModel = viewModel(),
+               authViewModel: AuthViewModel = viewModel()) {
     val navController = rememberNavController()
     Scaffold(
         bottomBar = { BottomNavigationBar(navController) }
     ) {
-        Navigation(viewModel = viewModel, navController = navController, paddingValues = it)
+        Navigation(viewModel = viewModel, navController = navController, authViewModel = authViewModel, paddingValues = it)
     }
 }
 
@@ -34,7 +42,8 @@ fun MainScreen(viewModel: TravelViewModel = viewModel()) {
 fun BottomNavigationBar(navController: NavHostController) {
     val items = listOf(
         Screen.CountriesScreen,
-        Screen.TravelsScreen
+        Screen.TravelsScreen,
+        Screen.ChatRoomsScreen
     )
     BottomNavigation(
         backgroundColor = colorResource(id = R.color.app_bar_color)
@@ -68,10 +77,11 @@ fun BottomNavigationBar(navController: NavHostController) {
 @Composable
 fun Navigation(viewModel: TravelViewModel = viewModel(),
                navController: NavHostController = rememberNavController(),
+               authViewModel: AuthViewModel,
                paddingValues: PaddingValues){
     NavHost(
         navController= navController,
-        startDestination = Screen.TravelsScreen.route,
+        startDestination = Screen.LoginScreen.route,
         modifier = Modifier.padding(paddingValues)
     ){
         composable(Screen.TravelsScreen.route){
@@ -93,6 +103,31 @@ fun Navigation(viewModel: TravelViewModel = viewModel(),
 
         composable(Screen.CountriesScreen.route) {
             CountriesScreen(viewModel = viewModel)
+        }
+
+        composable(Screen.SignupScreen.route) {
+            SignUpScreen(
+                authViewModel = authViewModel,
+                onNavigateToLogin = { navController.navigate(Screen.LoginScreen.route) }
+            )
+        }
+        composable(Screen.LoginScreen.route) {
+            LoginScreen(
+                authViewModel = authViewModel,
+                onNavigateToSignUp = { navController.navigate(Screen.SignupScreen.route) }
+            ) {
+                navController.navigate(Screen.TravelsScreen.route)
+            }
+        }
+        composable(Screen.ChatRoomsScreen.route) {
+            ChatRoomListScreen{
+                navController.navigate("${Screen.ChatScreen.route}/$it.id")
+            }
+        }
+        composable("${Screen.ChatScreen.route}/{roomId}") {
+            val roomId: String = it
+                .arguments?.getString("roomId") ?: ""
+            ChatScreen(roomId = roomId)
         }
     }
 }

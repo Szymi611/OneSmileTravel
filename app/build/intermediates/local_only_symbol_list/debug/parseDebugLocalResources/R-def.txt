@@ -11,6 +11,8 @@ color teal_700
 color white
 drawable baseline_add_circle_outline_24
 drawable baseline_auto_stories_24
+drawable baseline_chat_24
+drawable baseline_login_24
 drawable baseline_map_24
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -19,6 +21,12 @@ mipmap ic_launcher
 mipmap ic_launcher_round
 string add_travel
 string app_name
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string project_id
 string update_travel
 style Theme.TravelMobileApp
 xml backup_rules

@@ -37,6 +37,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.material.*
 import androidx.navigation.NavController
 import com.travelmobileapp.data.Travel
+import com.travelmobileapp.screen.Screen
 
 @OptIn(ExperimentalMaterialApi::class)
 @Composable

@@ -1,58 +1,70 @@
-com.travelmobileapp-ui-graphics-release-0 C:\Users\MSI\.gradle\caches\transforms-3\001376993adce9fb2f9a1883f0e8dd0d\transformed\ui-graphics-release\res
-com.travelmobileapp-lifecycle-viewmodel-ktx-2.7.0-1 C:\Users\MSI\.gradle\caches\transforms-3\018f10cc39d8e28c511c501259d1cc4f\transformed\lifecycle-viewmodel-ktx-2.7.0\res
-com.travelmobileapp-emoji2-1.4.0-2 C:\Users\MSI\.gradle\caches\transforms-3\07ec7de3eb5082b2045c6c24d562903c\transformed\emoji2-1.4.0\res
-com.travelmobileapp-animation-release-3 C:\Users\MSI\.gradle\caches\transforms-3\086bdabe63be05cba1e596e6d7eae28a\transformed\animation-release\res
-com.travelmobileapp-material3-1.1.1-4 C:\Users\MSI\.gradle\caches\transforms-3\087811eb651ce90308ee087b423b0af0\transformed\material3-1.1.1\res
-com.travelmobileapp-navigation-common-ktx-2.7.7-5 C:\Users\MSI\.gradle\caches\transforms-3\097991f2e0ae1f6c354d5287fdf45d3d\transformed\navigation-common-ktx-2.7.7\res
-com.travelmobileapp-room-runtime-2.6.1-6 C:\Users\MSI\.gradle\caches\transforms-3\09b2e8067c39468d8f1d9886aebfae54\transformed\room-runtime-2.6.1\res
-com.travelmobileapp-profileinstaller-1.3.1-7 C:\Users\MSI\.gradle\caches\transforms-3\09ffe637bfb0ac7a70a60f772482dc6d\transformed\profileinstaller-1.3.1\res
-com.travelmobileapp-activity-1.8.2-8 C:\Users\MSI\.gradle\caches\transforms-3\0d73084e13868e09a06a79c6f574577e\transformed\activity-1.8.2\res
-com.travelmobileapp-sqlite-2.4.0-9 C:\Users\MSI\.gradle\caches\transforms-3\130bc3941e5edb31cbe12dbb2372c8de\transformed\sqlite-2.4.0\res
-com.travelmobileapp-activity-ktx-1.8.2-10 C:\Users\MSI\.gradle\caches\transforms-3\1475ae8656bad47f6048105c1b09db57\transformed\activity-ktx-1.8.2\res
-com.travelmobileapp-lifecycle-runtime-2.7.0-11 C:\Users\MSI\.gradle\caches\transforms-3\16d6073024c7d1697a7eefddb69cf00e\transformed\lifecycle-runtime-2.7.0\res
-com.travelmobileapp-ui-tooling-preview-release-12 C:\Users\MSI\.gradle\caches\transforms-3\1a1bc3b4a5db42c27bec709e6c6183db\transformed\ui-tooling-preview-release\res
-com.travelmobileapp-material-release-13 C:\Users\MSI\.gradle\caches\transforms-3\27517ed5a0ad14338243019a23fc912d\transformed\material-release\res
-com.travelmobileapp-activity-compose-1.8.2-14 C:\Users\MSI\.gradle\caches\transforms-3\33c746b9b31916464b81dcc4b35aa9ad\transformed\activity-compose-1.8.2\res
-com.travelmobileapp-foundation-release-15 C:\Users\MSI\.gradle\caches\transforms-3\35f61e125102e60d8cb76bb2079b257e\transformed\foundation-release\res
-com.travelmobileapp-lifecycle-runtime-ktx-2.7.0-16 C:\Users\MSI\.gradle\caches\transforms-3\395c024d958a0f76b9adad0691d0fd58\transformed\lifecycle-runtime-ktx-2.7.0\res
-com.travelmobileapp-room-ktx-2.6.1-17 C:\Users\MSI\.gradle\caches\transforms-3\405c2944f547b830a31293b8aca124a2\transformed\room-ktx-2.6.1\res
-com.travelmobileapp-ui-text-release-18 C:\Users\MSI\.gradle\caches\transforms-3\4079b6a10807354f20baa03a6f9c4f1b\transformed\ui-text-release\res
-com.travelmobileapp-runtime-saveable-release-19 C:\Users\MSI\.gradle\caches\transforms-3\41107c27bc6836e1bba4af366a33dff9\transformed\runtime-saveable-release\res
-com.travelmobileapp-customview-poolingcontainer-1.0.0-20 C:\Users\MSI\.gradle\caches\transforms-3\46649803c1d3e3df89396620d2e82bf8\transformed\customview-poolingcontainer-1.0.0\res
-com.travelmobileapp-lifecycle-process-2.7.0-21 C:\Users\MSI\.gradle\caches\transforms-3\4b11d22735c42b052c888153d7ad1ca4\transformed\lifecycle-process-2.7.0\res
-com.travelmobileapp-core-1.12.0-22 C:\Users\MSI\.gradle\caches\transforms-3\4db716c8d57e9dd9a4e39e9e3d6a6063\transformed\core-1.12.0\res
-com.travelmobileapp-ui-util-release-23 C:\Users\MSI\.gradle\caches\transforms-3\51a6f8771c011727956ac33a605e7837\transformed\ui-util-release\res
-com.travelmobileapp-material-ripple-release-24 C:\Users\MSI\.gradle\caches\transforms-3\5fae1a6403226e5df722288a7fee705e\transformed\material-ripple-release\res
-com.travelmobileapp-lifecycle-viewmodel-compose-2.7.0-25 C:\Users\MSI\.gradle\caches\transforms-3\6216487f241342cc3b96fad52514c07d\transformed\lifecycle-viewmodel-compose-2.7.0\res
-com.travelmobileapp-savedstate-ktx-1.2.1-26 C:\Users\MSI\.gradle\caches\transforms-3\6641b9d0c3aee21816ae0f42f8122a9e\transformed\savedstate-ktx-1.2.1\res
-com.travelmobileapp-annotation-experimental-1.3.0-27 C:\Users\MSI\.gradle\caches\transforms-3\666519cfd26dfd783386f44d9fd8429f\transformed\annotation-experimental-1.3.0\res
-com.travelmobileapp-ui-geometry-release-28 C:\Users\MSI\.gradle\caches\transforms-3\667cb4c4b5691ab66a7ac56fc5f88176\transformed\ui-geometry-release\res
-com.travelmobileapp-core-ktx-1.12.0-29 C:\Users\MSI\.gradle\caches\transforms-3\74b5b2498385cfe17dc436fe8cc88f0f\transformed\core-ktx-1.12.0\res
-com.travelmobileapp-animation-core-release-30 C:\Users\MSI\.gradle\caches\transforms-3\7ccec33f77d7de9a328b0e18ebfbbd6f\transformed\animation-core-release\res
-com.travelmobileapp-ui-release-31 C:\Users\MSI\.gradle\caches\transforms-3\7ee908a5d89bdeebe0e0983e0860c238\transformed\ui-release\res
-com.travelmobileapp-foundation-layout-release-32 C:\Users\MSI\.gradle\caches\transforms-3\81d27c203fa71091de8152a678134f70\transformed\foundation-layout-release\res
-com.travelmobileapp-lifecycle-viewmodel-savedstate-2.7.0-33 C:\Users\MSI\.gradle\caches\transforms-3\942d39a87da120041ad3c72f63f77e1e\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
-com.travelmobileapp-ui-tooling-data-release-34 C:\Users\MSI\.gradle\caches\transforms-3\9ac302e89c2e44c327962f885a2d4446\transformed\ui-tooling-data-release\res
-com.travelmobileapp-appcompat-resources-1.6.1-35 C:\Users\MSI\.gradle\caches\transforms-3\9d84867166f49fd80ab0547de5b572f0\transformed\appcompat-resources-1.6.1\res
-com.travelmobileapp-navigation-runtime-ktx-2.7.7-36 C:\Users\MSI\.gradle\caches\transforms-3\a48de6f8f7853b1f377230119d803fb9\transformed\navigation-runtime-ktx-2.7.7\res
-com.travelmobileapp-savedstate-1.2.1-37 C:\Users\MSI\.gradle\caches\transforms-3\a8259452ae92eb59405eed697a97bc22\transformed\savedstate-1.2.1\res
-com.travelmobileapp-lifecycle-viewmodel-2.7.0-38 C:\Users\MSI\.gradle\caches\transforms-3\a82a6f8c6b66f8c8d11965d4a7ead296\transformed\lifecycle-viewmodel-2.7.0\res
-com.travelmobileapp-navigation-common-2.7.7-39 C:\Users\MSI\.gradle\caches\transforms-3\a8787fa380fdd7b5b4363f3c769ad3bf\transformed\navigation-common-2.7.7\res
-com.travelmobileapp-ui-test-manifest-1.5.1-40 C:\Users\MSI\.gradle\caches\transforms-3\abcfb19bdeedb25d6d0c2ecf8328c8b9\transformed\ui-test-manifest-1.5.1\res
-com.travelmobileapp-navigation-runtime-2.7.7-41 C:\Users\MSI\.gradle\caches\transforms-3\b1705b1231b72e727ed768a1a1bcdc3c\transformed\navigation-runtime-2.7.7\res
-com.travelmobileapp-ui-tooling-release-42 C:\Users\MSI\.gradle\caches\transforms-3\c6e30c4f39b13dc3a4d3d773bffd7313\transformed\ui-tooling-release\res
-com.travelmobileapp-ui-unit-release-43 C:\Users\MSI\.gradle\caches\transforms-3\cc67eeca41756d1f0609606cd97baffd\transformed\ui-unit-release\res
-com.travelmobileapp-core-runtime-2.2.0-44 C:\Users\MSI\.gradle\caches\transforms-3\cc84afaccf38c46b8a4a6e7c37557af2\transformed\core-runtime-2.2.0\res
-com.travelmobileapp-lifecycle-livedata-core-2.7.0-45 C:\Users\MSI\.gradle\caches\transforms-3\d1a989a2d84903b3d6633c0855b7d99f\transformed\lifecycle-livedata-core-2.7.0\res
-com.travelmobileapp-runtime-release-46 C:\Users\MSI\.gradle\caches\transforms-3\d9652bc480940800beee9bcbf998c755\transformed\runtime-release\res
-com.travelmobileapp-material-icons-core-release-47 C:\Users\MSI\.gradle\caches\transforms-3\db83a1ae77b765281098283de44b9862\transformed\material-icons-core-release\res
-com.travelmobileapp-sqlite-framework-2.4.0-48 C:\Users\MSI\.gradle\caches\transforms-3\de400c8a1c7022364eefd9d7baf3f5a3\transformed\sqlite-framework-2.4.0\res
-com.travelmobileapp-navigation-compose-2.7.7-49 C:\Users\MSI\.gradle\caches\transforms-3\e6ab73958c2caf00bb28de667b8ac830\transformed\navigation-compose-2.7.7\res
-com.travelmobileapp-coil-base-2.4.0-50 C:\Users\MSI\.gradle\caches\transforms-3\e75b99046aee46d7eb34c0708911f1d7\transformed\coil-base-2.4.0\res
-com.travelmobileapp-startup-runtime-1.1.1-51 C:\Users\MSI\.gradle\caches\transforms-3\fa87f7a8cb9de9fa94e97d0a6f128299\transformed\startup-runtime-1.1.1\res
-com.travelmobileapp-resValues-52 D:\studia\IV semestr\JPWP\TravelMobileApp\app\build\generated\res\resValues\debug
-com.travelmobileapp-packageDebugResources-53 D:\studia\IV semestr\JPWP\TravelMobileApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.travelmobileapp-packageDebugResources-54 D:\studia\IV semestr\JPWP\TravelMobileApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.travelmobileapp-debug-55 D:\studia\IV semestr\JPWP\TravelMobileApp\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.travelmobileapp-debug-56 D:\studia\IV semestr\JPWP\TravelMobileApp\app\src\debug\res
-com.travelmobileapp-main-57 D:\studia\IV semestr\JPWP\TravelMobileApp\app\src\main\res
+com.travelmobileapp-lifecycle-viewmodel-compose-2.7.0-0 C:\Users\MSI\.gradle\caches\transforms-3\00df2afac52984405fbc5704e51b0084\transformed\lifecycle-viewmodel-compose-2.7.0\res
+com.travelmobileapp-customview-poolingcontainer-1.0.0-1 C:\Users\MSI\.gradle\caches\transforms-3\00f1591619ec6064affdefc0a8cd338c\transformed\customview-poolingcontainer-1.0.0\res
+com.travelmobileapp-activity-1.8.2-2 C:\Users\MSI\.gradle\caches\transforms-3\019524c05f3f679eccd7724e01abb4e5\transformed\activity-1.8.2\res
+com.travelmobileapp-ui-geometry-release-3 C:\Users\MSI\.gradle\caches\transforms-3\03fa142bc1c247d2dbbf6d246d8c20c1\transformed\ui-geometry-release\res
+com.travelmobileapp-lifecycle-process-2.7.0-4 C:\Users\MSI\.gradle\caches\transforms-3\0b0610056d73d8b80435c4b527d8a37e\transformed\lifecycle-process-2.7.0\res
+com.travelmobileapp-core-1.12.0-5 C:\Users\MSI\.gradle\caches\transforms-3\0e4771f42d5847d38f7fd0863f6fdc0e\transformed\core-1.12.0\res
+com.travelmobileapp-sqlite-framework-2.4.0-6 C:\Users\MSI\.gradle\caches\transforms-3\12c94442cf4f7ef6f8da95ff7bcf5b53\transformed\sqlite-framework-2.4.0\res
+com.travelmobileapp-coil-base-2.4.0-7 C:\Users\MSI\.gradle\caches\transforms-3\13b3978876744d2d00744fcd429c9de3\transformed\coil-base-2.4.0\res
+com.travelmobileapp-core-runtime-2.2.0-8 C:\Users\MSI\.gradle\caches\transforms-3\1438a550ed7cfad8296a362a4f876f65\transformed\core-runtime-2.2.0\res
+com.travelmobileapp-ads-adservices-1.0.0-beta05-9 C:\Users\MSI\.gradle\caches\transforms-3\16047685be344ca86277f00814100fa4\transformed\ads-adservices-1.0.0-beta05\res
+com.travelmobileapp-runtime-livedata-1.5.2-10 C:\Users\MSI\.gradle\caches\transforms-3\18e352018fb5961d026460eddb141afe\transformed\runtime-livedata-1.5.2\res
+com.travelmobileapp-material3-1.1.1-11 C:\Users\MSI\.gradle\caches\transforms-3\19c6777ef8a4660b6949ecab85de24a7\transformed\material3-1.1.1\res
+com.travelmobileapp-ui-unit-release-12 C:\Users\MSI\.gradle\caches\transforms-3\1b0fe97eb05d89998c8f2b65bbea3f50\transformed\ui-unit-release\res
+com.travelmobileapp-ui-tooling-release-13 C:\Users\MSI\.gradle\caches\transforms-3\1d9e7853c1839a8be48bd146e7bd2530\transformed\ui-tooling-release\res
+com.travelmobileapp-coordinatorlayout-1.0.0-14 C:\Users\MSI\.gradle\caches\transforms-3\26548140db00cf0fd0bc78e1be6b195e\transformed\coordinatorlayout-1.0.0\res
+com.travelmobileapp-animation-core-release-15 C:\Users\MSI\.gradle\caches\transforms-3\27323e73f1ba2555ad0cadf24cb98fe0\transformed\animation-core-release\res
+com.travelmobileapp-ui-tooling-data-release-16 C:\Users\MSI\.gradle\caches\transforms-3\2ce2ac9e8213646f5d8efa346c241fa6\transformed\ui-tooling-data-release\res
+com.travelmobileapp-lifecycle-livedata-core-2.7.0-17 C:\Users\MSI\.gradle\caches\transforms-3\32c4f660c0345fb67ca42eef936529a4\transformed\lifecycle-livedata-core-2.7.0\res
+com.travelmobileapp-lifecycle-viewmodel-ktx-2.7.0-18 C:\Users\MSI\.gradle\caches\transforms-3\3946be44a1bbadc81071b25326115680\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.travelmobileapp-activity-ktx-1.8.2-19 C:\Users\MSI\.gradle\caches\transforms-3\3cd79a1e755801555a3936e3bb17f085\transformed\activity-ktx-1.8.2\res
+com.travelmobileapp-emoji2-1.4.0-20 C:\Users\MSI\.gradle\caches\transforms-3\4389d78d26a0baff2be25c313bb82b1c\transformed\emoji2-1.4.0\res
+com.travelmobileapp-animation-release-21 C:\Users\MSI\.gradle\caches\transforms-3\4e8dc78ebe143c19c856411d0e164a1f\transformed\animation-release\res
+com.travelmobileapp-lifecycle-viewmodel-2.7.0-22 C:\Users\MSI\.gradle\caches\transforms-3\4ecd46347f9dd49668e26265071406df\transformed\lifecycle-viewmodel-2.7.0\res
+com.travelmobileapp-browser-1.4.0-23 C:\Users\MSI\.gradle\caches\transforms-3\4f5a9e3e049ba043a2956d5461c26e55\transformed\browser-1.4.0\res
+com.travelmobileapp-sqlite-2.4.0-24 C:\Users\MSI\.gradle\caches\transforms-3\52d38b3158b79211e5c3ddc9b543ae44\transformed\sqlite-2.4.0\res
+com.travelmobileapp-navigation-runtime-ktx-2.7.7-25 C:\Users\MSI\.gradle\caches\transforms-3\534a4bd8e1524c2e952bea3d2dae16d9\transformed\navigation-runtime-ktx-2.7.7\res
+com.travelmobileapp-play-services-base-18.0.1-26 C:\Users\MSI\.gradle\caches\transforms-3\582433c63175c8f4f1662e546adc019d\transformed\play-services-base-18.0.1\res
+com.travelmobileapp-startup-runtime-1.1.1-27 C:\Users\MSI\.gradle\caches\transforms-3\5ae8e10638f82ca5a2cb0227648a145b\transformed\startup-runtime-1.1.1\res
+com.travelmobileapp-room-ktx-2.6.1-28 C:\Users\MSI\.gradle\caches\transforms-3\6cd26054e381004c76c2af8fb8063a37\transformed\room-ktx-2.6.1\res
+com.travelmobileapp-material-ripple-release-29 C:\Users\MSI\.gradle\caches\transforms-3\709d2a3a4b964808afaad852a5a5c143\transformed\material-ripple-release\res
+com.travelmobileapp-material-icons-core-release-30 C:\Users\MSI\.gradle\caches\transforms-3\7667a4c2ed9779e306f298d3cbc6e97f\transformed\material-icons-core-release\res
+com.travelmobileapp-runtime-release-31 C:\Users\MSI\.gradle\caches\transforms-3\7b766cef069860cfb694aa405c5aa833\transformed\runtime-release\res
+com.travelmobileapp-navigation-common-ktx-2.7.7-32 C:\Users\MSI\.gradle\caches\transforms-3\86cf1675feb930bf0d6036f85ee60106\transformed\navigation-common-ktx-2.7.7\res
+com.travelmobileapp-navigation-runtime-2.7.7-33 C:\Users\MSI\.gradle\caches\transforms-3\9015fb47864c8900410c1fb91d7272e0\transformed\navigation-runtime-2.7.7\res
+com.travelmobileapp-ads-adservices-java-1.0.0-beta05-34 C:\Users\MSI\.gradle\caches\transforms-3\92d37e9d8d60bfb87e82bef520c2b12f\transformed\ads-adservices-java-1.0.0-beta05\res
+com.travelmobileapp-annotation-experimental-1.3.0-35 C:\Users\MSI\.gradle\caches\transforms-3\93c8ff1504e41237bea3137ecd987881\transformed\annotation-experimental-1.3.0\res
+com.travelmobileapp-activity-compose-1.8.2-36 C:\Users\MSI\.gradle\caches\transforms-3\9433d9b6f3414bb21b3659a33ae9ec8d\transformed\activity-compose-1.8.2\res
+com.travelmobileapp-play-services-measurement-api-21.5.0-37 C:\Users\MSI\.gradle\caches\transforms-3\9788d8d06ac101424abb782bf3f3ca6d\transformed\play-services-measurement-api-21.5.0\res
+com.travelmobileapp-ui-text-release-38 C:\Users\MSI\.gradle\caches\transforms-3\9e7379e6e07685a26c0632621e0e8099\transformed\ui-text-release\res
+com.travelmobileapp-lifecycle-runtime-2.7.0-39 C:\Users\MSI\.gradle\caches\transforms-3\a2fd6b8112157062be851f8a733751ca\transformed\lifecycle-runtime-2.7.0\res
+com.travelmobileapp-core-ktx-1.12.0-40 C:\Users\MSI\.gradle\caches\transforms-3\a379ea3fe61542c197259051801d8863\transformed\core-ktx-1.12.0\res
+com.travelmobileapp-ui-tooling-preview-release-41 C:\Users\MSI\.gradle\caches\transforms-3\aa3c5cbefeb276a32e01731db0f5fcf1\transformed\ui-tooling-preview-release\res
+com.travelmobileapp-ui-test-manifest-1.5.1-42 C:\Users\MSI\.gradle\caches\transforms-3\aaaf9b8d48bcc3017fecaed47af0dbab\transformed\ui-test-manifest-1.5.1\res
+com.travelmobileapp-material-release-43 C:\Users\MSI\.gradle\caches\transforms-3\acbf6f8efd4d2090c5433af503941e99\transformed\material-release\res
+com.travelmobileapp-foundation-layout-release-44 C:\Users\MSI\.gradle\caches\transforms-3\aff2a2bc123d7ff42ce722ccc960c5e1\transformed\foundation-layout-release\res
+com.travelmobileapp-ui-graphics-release-45 C:\Users\MSI\.gradle\caches\transforms-3\b317bc9989ee2af23ac1393e622c681d\transformed\ui-graphics-release\res
+com.travelmobileapp-runtime-saveable-release-46 C:\Users\MSI\.gradle\caches\transforms-3\b3f2220063facadd676b6812e0ce7015\transformed\runtime-saveable-release\res
+com.travelmobileapp-lifecycle-livedata-2.7.0-47 C:\Users\MSI\.gradle\caches\transforms-3\ba66f70b8649196453e86c3d2ea3b4b6\transformed\lifecycle-livedata-2.7.0\res
+com.travelmobileapp-lifecycle-viewmodel-savedstate-2.7.0-48 C:\Users\MSI\.gradle\caches\transforms-3\cb9915211d15b3523fdeb06da3da8201\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.travelmobileapp-play-services-basement-18.1.0-49 C:\Users\MSI\.gradle\caches\transforms-3\cc0059a90ae581f63af6f4770f8c0724\transformed\play-services-basement-18.1.0\res
+com.travelmobileapp-savedstate-1.2.1-50 C:\Users\MSI\.gradle\caches\transforms-3\d06132aa818aa6c2e104dc51e440e33e\transformed\savedstate-1.2.1\res
+com.travelmobileapp-ui-release-51 C:\Users\MSI\.gradle\caches\transforms-3\d40bdb87039046e93c1c9d5af7814d0a\transformed\ui-release\res
+com.travelmobileapp-room-runtime-2.6.1-52 C:\Users\MSI\.gradle\caches\transforms-3\d545c6c81b0a6985ad066895d068918e\transformed\room-runtime-2.6.1\res
+com.travelmobileapp-appcompat-resources-1.6.1-53 C:\Users\MSI\.gradle\caches\transforms-3\d87914eb08431d5887da4687c58ad371\transformed\appcompat-resources-1.6.1\res
+com.travelmobileapp-savedstate-ktx-1.2.1-54 C:\Users\MSI\.gradle\caches\transforms-3\dae8e6ef886c3bfb8307e84991449a67\transformed\savedstate-ktx-1.2.1\res
+com.travelmobileapp-lifecycle-runtime-ktx-2.7.0-55 C:\Users\MSI\.gradle\caches\transforms-3\e65006ad6791214883d8cc979437a327\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.travelmobileapp-navigation-compose-2.7.7-56 C:\Users\MSI\.gradle\caches\transforms-3\e6d28118f0b26c39266e6fdad214b2bf\transformed\navigation-compose-2.7.7\res
+com.travelmobileapp-lifecycle-livedata-core-ktx-2.7.0-57 C:\Users\MSI\.gradle\caches\transforms-3\e71432e0eeed105918baccedd462925c\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.travelmobileapp-ui-util-release-58 C:\Users\MSI\.gradle\caches\transforms-3\ebf5f3c0ea46a31370495759d2c47f7a\transformed\ui-util-release\res
+com.travelmobileapp-navigation-common-2.7.7-59 C:\Users\MSI\.gradle\caches\transforms-3\f8aa501f83380d65d33345f714c37823\transformed\navigation-common-2.7.7\res
+com.travelmobileapp-profileinstaller-1.3.1-60 C:\Users\MSI\.gradle\caches\transforms-3\fc7bdc3192d1b455fb4b6ee1ff4cef5f\transformed\profileinstaller-1.3.1\res
+com.travelmobileapp-firebase-common-20.4.2-61 C:\Users\MSI\.gradle\caches\transforms-3\ff3f8ac20444272be3345f7ed25d0e41\transformed\firebase-common-20.4.2\res
+com.travelmobileapp-foundation-release-62 C:\Users\MSI\.gradle\caches\transforms-3\ffb66b29015fb5af9e36ad0298d02ba9\transformed\foundation-release\res
+com.travelmobileapp-res-63 D:\studia\IV semestr\JPWP\TravelMobileApp\app\build\generated\res\processDebugGoogleServices
+com.travelmobileapp-resValues-64 D:\studia\IV semestr\JPWP\TravelMobileApp\app\build\generated\res\resValues\debug
+com.travelmobileapp-packageDebugResources-65 D:\studia\IV semestr\JPWP\TravelMobileApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.travelmobileapp-packageDebugResources-66 D:\studia\IV semestr\JPWP\TravelMobileApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.travelmobileapp-debug-67 D:\studia\IV semestr\JPWP\TravelMobileApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.travelmobileapp-debug-68 D:\studia\IV semestr\JPWP\TravelMobileApp\app\src\debug\res
+com.travelmobileapp-main-69 D:\studia\IV semestr\JPWP\TravelMobileApp\app\src\main\res

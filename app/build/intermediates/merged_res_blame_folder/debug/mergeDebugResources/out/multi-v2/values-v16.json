@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.travelmobileapp-mergeDebugResources-54:/values-v16/values-v16.xml",
+            "outputFile": "com.travelmobileapp-mergeDebugResources-66:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\4db716c8d57e9dd9a4e39e9e3d6a6063\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\MSI\\.gradle\\caches\\transforms-3\\0e4771f42d5847d38f7fd0863f6fdc0e\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
