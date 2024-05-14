@@ -291,6 +291,7 @@ layout notification_template_part_chronometer
 layout notification_template_part_time
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap travelicon
 raw firebase_common_keep
 string add_travel
 string androidx_startup

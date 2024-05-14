@@ -19,6 +19,7 @@ drawable ic_launcher_foreground
 drawable mapa
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap travelicon
 string add_travel
 string app_name
 string gcm_defaultSenderId

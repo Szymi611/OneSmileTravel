@@ -20,10 +20,6 @@
         "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.4\\com.travelmobileapp-main-70:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.travelmobileapp-debug-68:/drawable_baseline_login_24.xml.flat",
-        "source": "com.travelmobileapp-main-70:/drawable/baseline_login_24.xml"
-    },
-    {
         "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.4\\com.travelmobileapp-debug-68:\\drawable_ic_launcher_foreground.xml.flat",
         "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.4\\com.travelmobileapp-main-70:\\drawable\\ic_launcher_foreground.xml"
     },
@@ -42,6 +38,10 @@
     {
         "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.4\\com.travelmobileapp-debug-68:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.4\\com.travelmobileapp-main-70:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.4\\com.travelmobileapp-debug-68:\\drawable_baseline_login_24.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.4\\com.travelmobileapp-main-70:\\drawable\\baseline_login_24.xml"
     },
     {
         "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.4\\com.travelmobileapp-debug-68:\\mipmap-mdpi_ic_launcher_round.webp.flat",
@@ -80,8 +80,12 @@
         "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.4\\com.travelmobileapp-main-70:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.travelmobileapp-debug-68:/drawable_baseline_chat_24.xml.flat",
-        "source": "com.travelmobileapp-main-70:/drawable/baseline_chat_24.xml"
+        "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.4\\com.travelmobileapp-debug-68:\\drawable_baseline_chat_24.xml.flat",
+        "source": "C:\\Users\\MSI\\.gradle\\daemon\\8.4\\com.travelmobileapp-main-70:\\drawable\\baseline_chat_24.xml"
+    },
+    {
+        "merged": "com.travelmobileapp-debug-68:/mipmap-hdpi_travelicon.webp.flat",
+        "source": "com.travelmobileapp-main-70:/mipmap-hdpi/travelicon.webp"
     },
     {
         "merged": "C:\\Users\\MSI\\.gradle\\daemon\\8.4\\com.travelmobileapp-debug-68:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
