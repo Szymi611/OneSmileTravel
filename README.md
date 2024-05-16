@@ -73,6 +73,6 @@ In our project, one application of the Firebase Realtime Database is our chat fe
 ---
 
 ## Video Presentation
-[![OneSmile Travel]](https://www.youtube.com/watch?v=https://youtu.be/MtOOWaOViBA)
+[![OneSmile Travel](https://img.youtube.com/vi/MtOOWaOViBA/0.jpg)](https://www.youtube.com/watch?v=MtOOWaOViBA)
 
 Thank you for visiting our repository! We hope you find our project interesting and look forward to any feedback you may have.
